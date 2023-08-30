@@ -15,7 +15,7 @@ I am Hasan Tatarlı, Senior Database Expert from İstanbul, Turkey primarily foc
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-750-blue?color=blue&logo=linkedin">
   </a>
   <a href="https://twitter.com/hasan_tatarli">
-    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
+    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-10-blue?color=orange&logo=twitter">
   </a>
 </p>
 
